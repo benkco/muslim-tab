@@ -4,7 +4,7 @@
         "language": "english",
         "content": "Or were they created by nothing, or are they their own creators?",
         "arabic": "",
-        "reference": "52:35",
+        "reference": "Surah At-Tur 52:35",
         "linkToReference": "https://quran.com/52/35"
     },
     {
@@ -12,8 +12,8 @@
         "language": "english",
         "content": "O mankind, worship your Lord, who created you and those before you, that you may become righteous.",
         "arabic": "وَٱلَّذِينَ كَفَرُوا۟ وَكَذَّبُوا۟ بِـَٔايَـٰتِنَآ أُو۟لَـٰٓئِكَ أَصْحَـٰبُ ٱلنَّارِ ۖ هُمْ فِيهَا خَـٰلِدُونَ",
-        "reference": "2:39",
-        "linkToReference": "https://quran.com/2/39"
+        "reference": "Surah Al-Baqarah 2:21",
+        "linkToReference": "https://quran.com/2/21"
     },
     {
         "category": "hadith",
@@ -1481,7 +1481,7 @@
     {
         "content": "Indeed, my Lord is the Hearer of Supplication.",
         "reference": "Surah Ibrahim 14:39",
-        "linkToReference": "https://quran.com/14/30",
+        "linkToReference": "https://quran.com/14/39",
         "language": "english",
         "category": "verse",
         "arabic": ""
@@ -1489,7 +1489,7 @@
     {
         "content": "Indeed, those who disbelieve it is all the same for them whether you warn them or do not warn them they will not believe.",
         "reference": "Surah Al-Baqarah 2:6",
-        "linkToReference": "quran.com/2/6",
+        "linkToReference": "https://quran.com/2/6",
         "language": "english",
         "category": "verse",
         "arabic": ""
@@ -1528,8 +1528,8 @@
     },
     {
         "content": "When He decrees a matter, He only says to it, \"Be,\" and it is.",
-        "reference": "Surah Al-Baqarah 2:147",
-        "linkToReference": "https://quran.com/2/147",
+        "reference": "Surah Al-Baqarah 2:117",
+        "linkToReference": "https://quran.com/2/117",
         "language": "english",
         "category": "verse",
         "arabic": ""
@@ -1592,16 +1592,16 @@
     },
     {
         "content": "Indeed, Allah does not like transgressors.",
-        "reference": "Surah Al-Baqarah 2:244",
-        "linkToReference": "https://quran.com/2/244",
+        "reference": "Surah Al-Baqarah 2:190",
+        "linkToReference": "https://quran.com/2/190",
         "language": "english",
         "category": "verse",
         "arabic": ""
     },
     {
         "content": "Fight in the way of Allah those who fight against you but do not transgress. ",
-        "reference": "Surah Al-Baqarah 2:244",
-        "linkToReference": "https://quran.com/2/244",
+        "reference": "Surah Al-Baqarah 2:190",
+        "linkToReference": "https://quran.com/2/190",
         "language": "english",
         "category": "verse",
         "arabic": ""
@@ -1632,24 +1632,24 @@
     },
     {
         "content": "He gives wisdom to whom He wills, and whoever has been given wisdom has certainly been given much good. ",
-        "reference": "Surah Al-Baqarah 2:271",
-        "linkToReference": "https://quran.com/2/271",
+        "reference": "Surah Al-Baqarah 2:269",
+        "linkToReference": "https://quran.com/2/269",
         "language": "english",
         "category": "verse",
         "arabic": ""
     },
     {
         "content": "And none will remember except those of understanding.",
-        "reference": "Surah Al-Baqarah 2:271",
-        "linkToReference": "https://quran.com/2/271",
+        "reference": "Surah Al-Baqarah 2:269",
+        "linkToReference": "https://quran.com/2/269",
         "language": "english",
         "category": "verse",
         "arabic": ""
     },
     {
         "content": "He gives wisdom to whom He wills, and whoever has been given wisdom has certainly been given much good. And none will remember except those of understanding.",
-        "reference": "Surah Al-Baqarah 2:271",
-        "linkToReference": "https://quran.com/2/271",
+        "reference": "Surah Al-Baqarah 2:269",
+        "linkToReference": "https://quran.com/2/269",
         "language": "english",
         "category": "verse",
         "arabic": ""
@@ -1720,8 +1720,8 @@
     },
     {
         "content": "Say, [O Muḥammad], \"If you should love Allah, then follow me, [so] Allah will love you and forgive you your sins. And Allah is Forgiving and Merciful.\"",
-        "reference": "Surah Ali Imran 3:32",
-        "linkToReference": "https://quran/3/32",
+        "reference": "Surah Ali Imran 3:31",
+        "linkToReference": "https://quran/3/31",
         "language": "english",
         "category": "verse",
         "arabic": ""
@@ -1752,16 +1752,16 @@
     },
     {
         "content": "But yes, whoever fulfills his commitment and fears Allah - then indeed, Allah loves those who fear Him.",
-        "reference": "Surah Ali Imran 3:85",
-        "linkToReference": "https://quran.com/3/85",
+        "reference": "Surah Ali Imran 3:76",
+        "linkToReference": "https://quran.com/3/76",
         "language": "english",
         "category": "verse",
         "arabic": ""
     },
     {
         "content": "Allah loves those who fear Him.",
-        "reference": "Surah Ali Imran 3:85",
-        "linkToReference": "https://quran.com/3/85",
+        "reference": "Surah Ali Imran 3:76",
+        "linkToReference": "https://quran.com/3/76",
         "language": "english",
         "category": "verse",
         "arabic": ""
@@ -1824,16 +1824,16 @@
     },
     {
         "content": "Who spend [in the cause of Allah] during ease and hardship and who restrain anger and who pardon the people, and Allah loves the doers of good.",
-        "reference": "Surah Ali Imran 3:138",
-        "linkToReference": "https://quran.com/3/138",
+        "reference": "Surah Ali Imran 3:134",
+        "linkToReference": "https://quran.com/3/134",
         "language": "english",
         "category": "verse",
         "arabic": ""
     },
     {
         "content": "and Allah loves the doers of good.",
-        "reference": "Surah Ali Imran 3:138",
-        "linkToReference": "https://quran.com/3/138",
+        "reference": "Surah Ali Imran 3:134",
+        "linkToReference": "https://quran.com/3/134",
         "language": "english",
         "category": "verse",
         "arabic": ""
