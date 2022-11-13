@@ -130,7 +130,7 @@
     {
         "content": "Allah will not look, on the Day of Resurrection, at a person who drags his Izar (behind him) out of pride and arrogance.",
         "reference": "al-Bukhari 5788",
-        "linkToReference": "ttps://sunnah.com/bukhari:5788",
+        "linkToReference": "https://sunnah.com/bukhari:5788", // Fixed Correction: Missing the letter 'h' for the 'https://"
         "language": "english",
         "arabic": "",
         "category": "hadith"
